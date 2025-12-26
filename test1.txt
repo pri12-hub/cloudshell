@@ -1,2 +1,2 @@
 echo "checking for push trial"
-
+echo "checking for pull trial"
